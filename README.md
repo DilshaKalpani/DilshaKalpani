@@ -1,15 +1,15 @@
 
 ## Hi there 👋
-😄I am a Computer Science Undergraduate.
-🔭I love learning new Technologies
-🌱Currently Learning **C, JavaScript, PHP, Java**
+😄I am a Computer Science Undergraduate.<br>
+🔭I love learning new Technologies. <br>
+🌱Currently Learning **C, JavaScript, PHP, Java** <br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DilshaKalpani&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DilshaKalpani&show_icons=true&theme=radical)<br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DilshaKalpani&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DilshaKalpani&layout=compact)<br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=DilshaKalpani&color=blue)
-![GitHub followers](https://img.shields.io/github/followers/DilshaKalpani?label=Followers&style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=DilshaKalpani&color=blue)<br>
+![GitHub followers](https://img.shields.io/github/followers/DilshaKalpani?label=Followers&style=social)<br>
 
 
 
