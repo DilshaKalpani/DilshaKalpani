@@ -2,9 +2,14 @@
 ## Hi there 👋
 😄I am a Computer Science Undergraduate.
 🔭I love learning new Technologies
-🌱Currently Learning C JavaScript pHp Java
+🌱Currently Learning **C, JavaScript, PHP, Java**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DilshaKalpani&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DilshaKalpani&layout=compact)
+
+![Profile Views](https://komarev.com/ghpvc/?username=DilshaKalpani&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/DilshaKalpani?label=Followers&style=social)
 
 
 
