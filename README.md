@@ -1,8 +1,8 @@
 
 ## Hi there 👋
-I am a Computer Science Undergraduate.
-I love learning new Technologies
-Currently Learning C JavaScript pHp Java
+😄I am a Computer Science Undergraduate.
+🔭I love learning new Technologies
+🌱Currently Learning C JavaScript pHp Java
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DilshaKalpani&show_icons=true&theme=radical)
 
