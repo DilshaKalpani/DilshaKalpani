@@ -1,5 +1,5 @@
 <h3 align="center">Hi 👋, I'm Dilsha Kalpani</h1>
-<h3 align="center">💻 Aspiring Software Engineer | 🎓 Undergraduate</h3>
+<h3 align="center">|🎓 Undergraduate</h3>
 
 😄I am a Computer Science Undergraduate.<br>
 🔭I love learning new Technologies. <br>
