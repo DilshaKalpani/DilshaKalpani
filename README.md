@@ -1,7 +1,6 @@
 <h3 align="center">Hi 👋, I'm Dilsha Kalpani</h1>
-<h3 align="center">|🎓 Undergraduate</h3>
 
-😄I am a Computer Science Undergraduate.<br>
+😄I am a Second Yr Computer Science Undergraduate at University of Kelaniya.<br>
 🔭I love learning new Technologies. <br>
 🌱Currently Learning **C, Java** <br>
 
