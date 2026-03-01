@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋, **I'm Dilsha Kalpani**</h1>
+<h3 align="center">Hi 👋, I'm Dilsha Kalpani</h3>
 
 😄I am a Second Yr Computer Science Undergraduate at University of Kelaniya.<br>
 🔭I love learning new Technologies. <br>
