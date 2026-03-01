@@ -1,25 +1,30 @@
+<h1 align="center">Hi 👋, I'm Dilsha Kalpani</h1>
+<h3 align="center">💻 Aspiring Software Engineer | 🎓 Undergraduate</h3>
 
-## Hi there 👋
-😄I am a Computer Science Undergraduate.<br>
-🔭I love learning new Technologies. <br>
-🌱Currently Learning **C, HTML, CSS, JavaScript, PHP, Java** <br>
+---
 
-![Profile Views](https://komarev.com/ghpvc/?username=DilshaKalpani&color=blue)<br>
-![GitHub followers](https://img.shields.io/github/followers/DilshaKalpani?label=Followers&style=social)<br>
+### 🌸 About Me
 
+- 🌱 Currently learning **C# & OOP**
+- 💡 Interested in **Software Development**
+- 🎯 Working towards becoming a **Professional Developer**
+- 🚀 Love solving programming problems
 
+---
 
-<!--
-**DilshaKalpani/DilshaKalpani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Tech Stack
 
-Here are some ideas to get you started:
+- 💻 C#
+- 🔹 OOP Concepts
+- 🔹 Arrays & Collections
+- 🔹 Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 GitHub Stats
+
+![Dilsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true)
+
+---
+
+✨ *"Consistency is the key to success."*
