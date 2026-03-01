@@ -3,7 +3,7 @@
 
 😄I am a Computer Science Undergraduate.<br>
 🔭I love learning new Technologies. <br>
-🌱Currently Learning **C, HTML, CSS, JavaScript, PHP, Java** <br>
+🌱Currently Learning **C, Java** <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DilshaKalpani&color=blue)<br>
 ![GitHub followers](https://img.shields.io/github/followers/DilshaKalpani?label=Followers&style=social)<br>
@@ -13,7 +13,7 @@
 ## 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,python,html,css,js,php,java,c,c#" />
+  <img src="https://skillicons.dev/icons?i=c,python,html,css,js,php,java" />
 </p>
 
 
