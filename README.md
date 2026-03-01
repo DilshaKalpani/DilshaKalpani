@@ -15,6 +15,14 @@
   <img src="https://skillicons.dev/icons?i=c,python,html,css,js,php,java" />
 </p>
 
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilsha-kalpani-1b1245317)
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: [Dilsha Kalpani](https://www.linkedin.com/in/dilsha-kalpani-1b1245317)
+
 
 
 <!--
