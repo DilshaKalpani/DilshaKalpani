@@ -10,7 +10,7 @@
 
 
 
-## 🛠️ Languages and Tools
+### 🛠️ Languages and Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,python,html,css,js,php,java" />
