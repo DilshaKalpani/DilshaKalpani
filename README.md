@@ -18,7 +18,7 @@
 
 ### 📫 Connect With Me
 
-- 💼 LinkedIn: [Dilsha Kalpani](https://www.linkedin.com/in/dilsha-kalpani-1b1245317)
+💼 LinkedIn: [Dilsha Kalpani](https://www.linkedin.com/in/dilsha-kalpani-1b1245317)
 
 
 
