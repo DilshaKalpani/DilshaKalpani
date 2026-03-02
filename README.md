@@ -2,7 +2,7 @@
 
 😄I am a Second Yr Computer Science Undergraduate at University of Kelaniya.<br>
 🔭I love learning new Technologies. <br>
-🌱Currently Learning **C, Java** <br>
+🌱Currently Learning **C#, Java** <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DilshaKalpani&color=blue)<br>
 ![GitHub followers](https://img.shields.io/github/followers/DilshaKalpani?label=Followers&style=social)<br>
